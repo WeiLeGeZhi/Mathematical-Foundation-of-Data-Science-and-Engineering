@@ -1,4 +1,4 @@
-# Mathematical-Foundation-of-Data-Science-Engineering
+# Mathematical-Foundation-of-Data-Science-and-Engineering
 WEN Zhaohe's Repository for the course Mathematical Foundation of Data Science and Engineering
 ## Homeworks
 - Homework 1
